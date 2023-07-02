@@ -1,3 +1,4 @@
+#Password
 secretGenerator:
 - name: mysql-pass
   literals:
